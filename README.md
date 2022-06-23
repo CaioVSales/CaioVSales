@@ -1,5 +1,6 @@
 ## Olá, me chamo Caio Víctor!
-
+#### Sobre mim: 
+- Tenho 19 anos e programo desde os 14, estou cursando Ciências da Computação e sou Dev FullStack, entusiasta de tecnologia, proativo e esforçado. 
 <div>
   <a href="https://github.com/CaioVSales">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiovsales&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
