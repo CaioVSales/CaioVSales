@@ -8,6 +8,7 @@
 </div>
   
   <div style="display: inline_block"><br>
+  <a href="https://wakatime.com/@64b627c7-5b9b-459d-86d8-bb41a61c8927"><img src="https://wakatime.com/badge/user/64b627c7-5b9b-459d-86d8-bb41a61c8927.svg" alt="Total time coded since Jun 18 2021" /></a>
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
