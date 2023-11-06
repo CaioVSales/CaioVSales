@@ -10,7 +10,10 @@
 - 📫 How to reach me **victor.salesf13@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/caio-victor-sales/)
-
+  
+<h2>Wakatime coding time:<br> 
+  <a href="https://wakatime.com/@64b627c7-5b9b-459d-86d8-bb41a61c8927"><img src="https://wakatime.com/badge/user/64b627c7-5b9b-459d-86d8-bb41a61c8927.svg" alt="Total time coded since Jun 18 2021" /></a>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hydramaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hydramaster" height="30" width="40" /></a>
