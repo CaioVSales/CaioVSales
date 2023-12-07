@@ -1,7 +1,9 @@
 <h1 align="center">Hello Everyone 👋, I'm Caio</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiovsales&label=Profile%20views&color=0e75b6&style=flat" alt="caiovsales" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiovsales" alt="caiovsales" /></a> </p>
+
+[//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiovsales" alt="caiovsales" /></a> </p>)
+<a href="https://app.daily.dev/ryotoban"><img src="https://api.daily.dev/devcards/abc9269e7f1a40d4acf2c02ed9b50f12.png?r=h6y" width="400" alt="Caio Víctor's Dev Card"/></a>
 
 - I'm currently working on **IT Guys**, a **Lientech** project about human resources, recruiting and selection of people
 
