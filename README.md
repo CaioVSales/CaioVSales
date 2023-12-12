@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://app.daily.dev/ryotoban">
-  <img src="https://api.daily.dev/devcards/abc9269e7f1a40d4acf2c02ed9b50f12.png?r=h6y" width="400" alt="Caio Víctor's Dev Card"/>
+  <a href="https://app.daily.dev/ryotoban"><img src="https://api.daily.dev/devcards/abc9269e7f1a40d4acf2c02ed9b50f12.png?r=inr" width="400" alt="Caio Víctor's Dev Card"/></a>
 </a>
 
 - I'm currently working on **IT Guys**, a **Lientech** project focusing on human resources, recruiting, and personnel selection.
