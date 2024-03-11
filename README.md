@@ -3,8 +3,12 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=caiovsales&label=Profile%20views&color=0e75b6&style=flat" alt="caiovsales" />
 </p>
-
 <a href="https://app.daily.dev/ryotoban"><img src="https://api.daily.dev/devcards/v2/gXXtchltWIPhKJnTWbJuS.png?r=kea&type=wide" width="500" alt="Caio Víctor's Dev Card"/></a>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=caiovsales&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=caiovsales&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 - I'm currently working on **IT Guys**, a **Lientech** project focusing on human resources, recruiting, and personnel selection.
 - I'm also working on a IREDE internal Project.
