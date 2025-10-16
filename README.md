@@ -13,9 +13,9 @@
 -->
 </div>
 
-- I'm currently working on **IT Guys**, a **Lientech** project focusing on human resources, recruiting, and personnel selection.
+<!--- I'm currently working on **IT Guys**, a **Lientech** project focusing on human resources, recruiting, and personnel selection.
 - I'm also working on a IREDE internal Project.
-
+-->
 - 📫 How to reach me: **victor.salesf13@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/caio-victor-sales/)
